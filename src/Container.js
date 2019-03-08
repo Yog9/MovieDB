@@ -8,7 +8,7 @@ function Container(props) {
   props.movies === undefined
     ? (return_movie_item = <NotFound />)
     : (return_movie_item = props.movies.map(movie => (
-        <Movie movie_item={movie} key={movie.imdbID} />
+        <Movie movie_item={movie} key={movie.id} />
       )));
 
   return (
