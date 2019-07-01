@@ -32,11 +32,11 @@ The purpose of this project was to get familiar with React js.
 * CSS3
 
 ### Features
-**1. Responsive Design**
+**1. Responsive Design **
 
-**2. Search for movies**
+**2. Search for movies **
 
 ### Coming Soon 
-- [ ] Create more pages to show movie datails using React Router.
+- [ ] Create more pages to show movie details using React Router.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
