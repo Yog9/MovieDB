@@ -21,10 +21,6 @@ function Movie(props) {
               ? `${props.movie_item.title}`
               : `${props.movie_item.title.substring(0, 15)}...`}
           </h5>
-
-          <a href="#" className="btn btn-primary mx-auto">
-            Details
-          </a>
         </div>
       </div>
     </div>

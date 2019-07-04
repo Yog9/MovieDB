@@ -30,9 +30,7 @@ class App extends Component {
         console.log(error);
       });
   };
-  componentDidMount() {
-    this.getMovie("home");
-  }
+  
   render() {
     return (
       <div className="App">

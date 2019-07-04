@@ -6,7 +6,7 @@ function Navbar(props) {
       <ul className="nav justify-content-start">
         <li className="nav-item">
           <a className="nav-link text-white font-weight-bold" href="#">
-            OMDb Movie Search App
+            TMDb Movie Search App
           </a>
         </li>
       </ul>
