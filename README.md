@@ -4,7 +4,7 @@
 
 ## Summary 
 
-A basic react app to search movies from OMDb API.
+A basic react app to search movies from TMDb API.
 
 
 ### Motivation
@@ -14,6 +14,11 @@ The purpose of this project was to get familiar with React js.
  Click the demo link or clone/download the repository on your local machine.
 
 #### To Run the project on local machine
+Create config.js is src folder add write the following code snippet
+
+`const apiKey = "YOUR_TMDB_API_KEY";`
+
+ `export default apiKey;`
 
 ##### Install the project dependencies
 * In the root run 
